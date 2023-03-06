@@ -3,3 +3,4 @@ int _memcmp(unsigned char *s1, unsigned char *s2, int n);
 void *_memcpy(unsigned char *s1, unsigned char *s2, int n);
 void *_memmove(unsigned char *s1, unsigned char *s2, int n);
 void *_memset(unsigned char *str, unsigned char c, unsigned int len);
+char *_strchr(char *str, unsigned char c);
