@@ -1,13 +1,4 @@
 Creation Of your own `printf`
 ==============================
- Markup : * Bullet list
-              * Nested bullet
-                  * Sub-nested bullet etc
-          * Bullet list item 2
-
--OR-
-
- Markup : - Bullet list
-              - Nested bullet
-                  - Sub-nested bullet etc
-          - Bullet list item 2 
+ Markup : - [ ] An uncompleted task
+          - [x] A completed task
