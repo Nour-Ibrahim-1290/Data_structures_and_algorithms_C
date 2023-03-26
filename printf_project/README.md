@@ -1,1 +1,6 @@
-Implementation of printf -- Expiremenr and Preperation
+Creation Of your own `printf`
+==============================
+#### Implementations of Four `printf `Functions ####
+
+
+
